@@ -9,4 +9,5 @@ for (let i = 1; paisA < paisB; i++) {
     console.log('==================')
     console.log(`ano: ${i}\nPaís A: ${paisA}\nPais B: ${paisB}`)
 }
+//testegitpull
 process.exit()
