@@ -4,7 +4,7 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
-let jogos = [];
+let jogos = []
 
 function menu() {
   console.log(
